@@ -15,7 +15,7 @@ Android 11 - API Level 30 <br>
 
 ## 3. App Screenshots
 
-<img align="left" width="350" height="700" src="https://github.com/js-shashwath/Mp3-android-application/blob/main/home_grid.png">
-<img align="right" width="350" height="700" src="https://github.com/js-shashwath/Mp3-android-application/blob/main/home_list.png">
-<img width="350" height="700" src="https://github.com/js-shashwath/Mp3-android-application/blob/main/long_press.png">
+<img align="left" width="250" height="700" src="https://github.com/js-shashwath/Mp3-android-application/blob/main/home_grid.png">
+<img align="right" width="250" height="700" src="https://github.com/js-shashwath/Mp3-android-application/blob/main/home_list.png">
+<img width="250" height="700" src="https://github.com/js-shashwath/Mp3-android-application/blob/main/long_press.png">
 </p>
