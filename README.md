@@ -18,10 +18,4 @@ Android 11 - API Level 30 <br>
 |:---|:---:|---:|
 |![](https://github.com/js-shashwath/Mp3-android-application/blob/main/home_grid.png)|
 |![](https://github.com/js-shashwath/Mp3-android-application/blob/main/home_list.png)|
-|![](https://github.com/js-shashwath/Mp3-android-application/blob/main/long_press.png" width=270 height=480)|
-
-<p float="left">
-  <img src="https://github.com/js-shashwath/Mp3-android-application/blob/main/home_grid.png" width=270 height=480" />
-  <img src="https://github.com/js-shashwath/Mp3-android-application/blob/main/home_list.png" width=270 height=480" /> 
-  <img src="https://github.com/js-shashwath/Mp3-android-application/blob/main/long_press.png" width=270 height=480" />
-</p>
+|![](https://github.com/js-shashwath/Mp3-android-application/blob/main/long_press.png)|
