@@ -17,5 +17,5 @@ Android 11 - API Level 30 <br>
 
 <img align="left" width="300" height="700" src="https://github.com/js-shashwath/Mp3-android-application/blob/main/home_grid.png">
 <img align="right" width="300" height="700" src="https://github.com/js-shashwath/Mp3-android-application/blob/main/home_list.png">
-<img width="300" height="700" src="https://github.com/js-shashwath/Mp3-android-application/blob/main/long_press.png">
-</p>
+<img align="center" width="300" height="700" src="https://github.com/js-shashwath/Mp3-android-application/blob/main/long_press.png">
+
